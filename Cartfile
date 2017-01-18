@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "rs/SDWebImage"
+github "jkolb/FranticApparatus"
+github "Swinject/Swinject"
+github "Swinject/SwinjectStoryboard"
+
